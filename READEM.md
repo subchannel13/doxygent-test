@@ -1,0 +1,1 @@
+Mock C++ project for testing how to deploy doxygen documentation to GitHub pages with actions.
